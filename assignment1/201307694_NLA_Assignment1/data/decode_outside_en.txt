@@ -1,0 +1,5 @@
+Digital TV is the only convergent technology without basic interoperability.
+Regulatory measures will be required to promote interoperability between the networks and devices that will be used to access digital TV and interactive services.
+Interoperability can be achieved through declaration and licensing of those key standards, interfaces and authoring tools necessary to reach the end user.
+This will promote interoperability without undermining innovation.
+Third parties will need access to this information at the same time as the gateway owners' own services.

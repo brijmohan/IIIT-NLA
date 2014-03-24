@@ -1,0 +1,24 @@
+Author:
+Brij Mohan Lal Srivastava
+201307694
+
+To initiate the program we need following inputs:
+
+There should be a data folder present in the same directory as this program
+1. A3 file genrated by GIZA++ (data/A3)
+2. Language model (n-grams) file (data/lm)
+3. Input sentences (data/input)
+
+
+To run the program we need to run "assignment3main.py", but this may 
+consume lot of memory if decoding process is also included. So we can run it in two parts
+
+first : assignment3main.py
+second : test.py
+
+test.py picks the inputs from default locations and produce output sentences decoded using
+stack decoding.
+
+
+Current input and output files for 10 german sentences are in same folder (input / output). They are
+obtained using 10,000 sentences corpus.

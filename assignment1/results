@@ -1,0 +1,220 @@
+1000 de->en
+-------------------------
+iteration 0...
+iteration 1...
+169116.359935
+159599.681391
+iteration 2...
+154840.903686
+iteration 3...
+152109.921648
+iteration 4...
+150452.343208
+iteration 5...
+iteration 6...
+149408.382893
+148727.14866
+iteration 7...
+148268.032648
+iteration 8...
+147949.601494
+iteration 9...
+147722.944155
+
+
+1000 en->de
+-------------------------
+iteration 0...
+iteration 1...
+155844.45246
+145857.595364
+iteration 2...
+140913.978985
+iteration 3...
+iteration 4...138086.51278
+
+136350.630922
+iteration 5...
+135245.433336
+iteration 6...
+134518.427934
+iteration 7...
+134025.45148
+iteration 8...
+133681.886041
+iteration 9...
+133436.43619
+
+
+
+10000 de->en
+-------------------------
+iteration 0...
+iteration 1...
+1856428.08748
+iteration 2...
+1704424.70741
+iteration 3...
+1635842.23066
+1603853.75469
+iteration 4...
+1587677.12205
+iteration 5...
+1578614.00038
+iteration 6...
+1573093.7161
+iteration 7...
+1569513.53318
+iteration 8...
+1567077.25937
+iteration 9...
+1565355.28667
+
+
+
+10000 en->de
+-------------------------
+iteration 0...
+iteration 1...
+1685379.23535
+iteration 2...
+1533508.76392
+1463796.96165
+iteration 3...
+iteration 4...
+1429982.9579
+1412665.71519
+iteration 5...
+iteration 6...
+1403024.20756
+1397201.20179
+iteration 7...
+iteration 8...
+1393442.01098
+iteration 9...
+1390887.07461
+1389079.43655
+
+
+
+20000 de->en
+-----------------------
+iteration 0...
+iteration 1...
+3856398.93869
+iteration 2...
+3509645.04754
+3360487.62869
+iteration 3...
+iteration 4...
+3296298.07075
+iteration 5...
+3265350.80734
+3248393.39762
+iteration 6...
+iteration 7...
+3238163.98849
+iteration 8...
+3231559.32596
+iteration 9...
+3227075.71898
+3223909.14913
+
+
+Alignment Training DE->EN:
+------------------------------------------------
+Frau Präsidentin, zunächst möchte ich Herrn Koch für seinen Bericht danken, der die Verkehrssicherheit zum Thema hat. 
+should Madam Madam heart, like I Mr Koch for his report thank of which heart, heart, issue heart, 
+
+Sie haben sie auch so beantwortet, wie ich wußte, daß Sie sie beantworten würden. 
+would you knew kind, Indeed kind, responded as I knew knew you kind, responded kind, 
+
+Hier besteht jetzt dringender Handlungsbedarf. 
+need urgency urgency now. urgency urgency 
+
+Herr Präsident, auch ich stimme zu, daß der hier von uns behandelte Bericht nur ein kleiner Schritt - ein noch zu kleiner Schritt - zur Schaffung jenes gemeinsamen Raums der Freiheit, der Sicherheit und des Rechts darstellt, den Europa hoffentlich eines Tages verkörpern wird.S 
+is Mr President, too I agree agree that of become. of we become. become. examining one become. step - one still too become. step - towards become. become. common freedom, of freedom, of security and construction freedom, become. the Europe hopefully construction day become. become. 
+
+Was den gegenwärtigen Konflikt im Baskenland betrifft, so ist in Spanien und Frankreich leider genau das Gegenteil passiert. 
+So regards regards on-going conflict in Basque regards regards country. in Spain and France, unfortunately, opposite Basque opposite on-going 
+
+
+Alignment Outside Training DE->EN:
+-------------------------------------------
+Das digitale Fernsehen ist die einzige Konvergenztechnik, die keine allgemeine Interoperabilität aufweist. 
+is is the the is the only interoperability. the without without interoperability. is 
+
+Zur Förderung der Interoperabilität zwischen den Netzen und Geräten für den Zugang zum digitalen Fernsehen und solchen für den Zugang zu interaktiven Diensten werden Vorschriften erlassen werden müssen. 
+be to promote the services. between networks access and services. networks networks access access digital services. and required networks networks access access services. services. will required to will used 
+
+Eine solche Interoperabilität kann durch die Festlegung und Lizenzierung von Schlüsselstandards, Schnittstellen und Programmierwerkzeugen herbeigeführt werden, die zum Erreichen des Endnutzers erforderlich sind. 
+be end end user. can through those standards, and user. of user. user. and user. be be those end can of user. necessary necessary 
+
+Dies fördert die Interoperabilität, ohne die Innovation zu untergraben. 
+This This This will will without will innovation. promote innovation. 
+
+Dritten müssen diese Informationen zum selben Zeitpunkt zur Verfügung stehen wie den Diensten der Inhaber der Übergangsstellen. 
+need Third need this information time same time information information at as access services. the same the services. 
+
+
+20000 en->de
+-----------------------
+iteration 0...
+iteration 1...
+3487131.11031
+3144958.14447
+iteration 2...
+2993396.39406
+iteration 3...
+2925180.26033
+iteration 4...
+2892095.36384
+iteration 5...
+2874228.08664
+iteration 6...
+2863600.94217
+iteration 7...
+2856783.09087
+iteration 8...
+2852154.36299
+iteration 9...
+2848874.41532
+
+
+
+Alignment Training EN->DE:
+------------------------------------------------
+Madam President, first of all I should like to thank Mr Koch for his report which has, at its heart, the issue of transport safety. 
+Frau Präsidentin, Präsidentin, zunächst der zunächst ich Verkehrssicherheit möchte zum danken, Herrn Koch für seinen Bericht hat. Verkehrssicherheit Verkehrssicherheit seinen Verkehrssicherheit der Thema der Verkehrssicherheit Verkehrssicherheit 
+
+Indeed you responded in kind, as I knew you would do. 
+Sie beantwortet, Sie beantwortet, so beantwortet, wie ich wußte, Sie würden. beantwortet, 
+
+We need to move that agenda forward with great urgency now. 
+Hier dringender dringender jetzt dringender Handlungsbedarf. dringender dringender dringender dringender dringender dringender 
+
+Mr President, I too agree that the convention that we are examining is but a small step - and still too small a step - towards the construction of the common area of freedom, security and justice which Europe will hopefully one day become. 
+noch Herr Präsident, ich verkörpern stimme daß den verkörpern daß uns uns verkörpern darstellt, kleiner ein kleiner Schritt - und noch verkörpern kleiner ein Schritt - Schritt den verkörpern des den gemeinsamen Rechts des Freiheit, Sicherheit und Freiheit, darstellt, Europa hoffentlich verkörpern Tages Tages verkörpern 
+
+So far, unfortunately, in Spain and France, just the opposite has been happening as regards the on-going conflict in the Basque country. 
+Was passiert. passiert. leider in Spanien und Frankreich passiert. den Gegenteil Konflikt Konflikt passiert. so betrifft, den passiert. Konflikt in den Baskenland Baskenland 
+
+
+Alignment Outside Training EN->DE:
+-------------------------------------------
+Digital TV is the only convergent technology without basic interoperability. 
+Das aufweist. ist ist die einzige aufweist. die allgemeine die aufweist. 
+
+Regulatory measures will be required to promote interoperability between the networks and devices that will be used to access digital TV and interactive services. 
+Zur müssen. Förderung werden werden solchen zu Förderung müssen. zwischen den Förderung und müssen. Fernsehen werden werden werden zu Zugang digitalen zum und müssen. Diensten 
+
+Interoperability can be achieved through declaration and licensing of those key standards, interfaces and authoring tools necessary to reach the end user. 
+Eine sind. kann werden, durch durch solche und werden, des werden, Eine Festlegung sind. und sind. und erforderlich Erreichen Eine des Eine sind. 
+
+This will promote interoperability without undermining innovation. 
+Dies Dies die zu untergraben. ohne zu Innovation 
+
+Third parties will need access to this information at the same time as the gateway owners' own services. 
+stehen Dritten stehen Verfügung müssen Informationen zur diese Informationen Zeitpunkt den selben Zeitpunkt wie den Übergangsstellen. Übergangsstellen. wie Diensten 
+
+

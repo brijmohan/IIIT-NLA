@@ -1,0 +1,5 @@
+Das digitale Fernsehen ist die einzige Konvergenztechnik, die keine allgemeine Interoperabilität aufweist.
+Zur Förderung der Interoperabilität zwischen den Netzen und Geräten für den Zugang zum digitalen Fernsehen und solchen für den Zugang zu interaktiven Diensten werden Vorschriften erlassen werden müssen.
+Eine solche Interoperabilität kann durch die Festlegung und Lizenzierung von Schlüsselstandards, Schnittstellen und Programmierwerkzeugen herbeigeführt werden, die zum Erreichen des Endnutzers erforderlich sind.
+Dies fördert die Interoperabilität, ohne die Innovation zu untergraben.
+Dritten müssen diese Informationen zum selben Zeitpunkt zur Verfügung stehen wie den Diensten der Inhaber der Übergangsstellen.

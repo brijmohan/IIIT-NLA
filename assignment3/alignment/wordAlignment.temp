@@ -1,0 +1,9 @@
+# Sentence pair (1) source length 3 target length 4 alignment score : 4.53266e-05
+Resumption of the session 
+NULL ({ }) Wiederaufnahme ({ 1 }) der ({ 2 3 }) Sitzungsperiode ({ 4 }) 
+# Sentence pair (6) source length 9 target length 8 alignment score : 1.892e-16
+Please rise, then, for this minute' s silence. 
+NULL ({ 4 }) Ich ({ }) bitte ({ }) Sie, ({ }) sich ({ }) zu ({ }) einer ({ }) Schweigeminute ({ }) zu ({ }) erheben. ({ 1 2 3 5 6 7 8 }) 
+# Sentence pair (2) source length 29 target length 38 alignment score : 4.25746e-62
+I declare resumed the session of the European Parliament adjourned on Friday 17 December 1999, and I would like once again to wish you a happy new year in the hope that you enjoyed a pleasant festive period. 
+NULL ({ 4 16 22 25 29 30 35 }) Ich ({ 1 }) erkläre ({ 2 }) die ({ }) am ({ }) Freitag, ({ 10 11 12 }) dem ({ }) 17. ({ 13 }) Dezember ({ 14 }) unterbrochene ({ 3 }) Sitzungsperiode ({ 5 }) des ({ 6 7 }) Europäischen ({ 8 }) Parlaments ({ 9 }) für ({ }) wiederaufgenommen, ({ 15 34 36 37 38 }) wünsche ({ 17 18 23 }) Ihnen ({ 24 }) nochmals ({ 19 20 21 }) alles ({ }) Gute ({ }) zum ({ }) Jahreswechsel ({ 26 27 28 }) und ({ }) hoffe, ({ 31 }) daß ({ 32 }) Sie ({ 33 }) schöne ({ }) Ferien ({ }) hatten. ({ }) 
